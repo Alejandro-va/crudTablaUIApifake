@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Jesús",
+      "apellidos": "Hernández",
+      "cargo": "Programador"
+    },
+    {
+      "id": 2,
+      "nombre": "Jóse",
+      "apellidos": "Hernández",
+      "cargo": "Piloto"
+    },
+    {
+      "nombre": "Oriana",
+      "apellidos": "Peralta",
+      "cargo": "Suplente",
+      "id": 3
+    },
+    {
+      "nombre": "Alexandra",
+      "apellidos": "Hernández",
+      "cargo": "Estudiante",
+      "id": 4
+    }
+  ]
+}
